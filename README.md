@@ -4,7 +4,7 @@
 
   ![bde67b9b-18b9-4a17-82ca-c17169ae19f6](https://github.com/user-attachments/assets/c6514903-46cc-48f9-9160-547fce708dd0)
 
-So,I am diving into embedded development.
+So,I am diving into embedded development,still learning...
 
 I am trying to study AI technology and some Graphic Design in my free time.
 
