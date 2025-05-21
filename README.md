@@ -4,9 +4,7 @@
 
 So,I am diving into embedded development.
 
-I am trying to study AI technology in my free time.
-
-I used to try some Graphic Design.
+I am trying to study AI technology and some Graphic Design in my free time.
 
   ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,ros,obsidian,cmake,git,githubactions,ps,github)
 
