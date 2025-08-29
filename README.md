@@ -1,6 +1,6 @@
 # Hi there 👋 Here is NVIC!
 
-## I'm a member of DTS in Shenyang University of Technology,**Fighting for RoboMaster!**
+## I'm a member of MEIC in Shenyang University of Technology,**Fighting for RoboMaster!**
 
   ![bde67b9b-18b9-4a17-82ca-c17169ae19f6](https://github.com/user-attachments/assets/c6514903-46cc-48f9-9160-547fce708dd0)
 
